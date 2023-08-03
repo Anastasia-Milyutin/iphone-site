@@ -4,6 +4,7 @@ body{
 
 .conteiner{
     display: block;
+    widht: 1200px;
     text-align: center;
     padding-left: 10%;
 }
@@ -311,18 +312,6 @@ font-weight: 700;
 line-height: 165.182%;
  }
 
- @media (min-width: 576px) {
-html{
-    width: 100%;
-}
-.conteiner{
-    width: 100%;
-    text-align: center;
-}
-.s-banner{
-    width: 100%;
-}
-
- }
+ 
 
  
